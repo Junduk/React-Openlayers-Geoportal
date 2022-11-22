@@ -1,0 +1,8 @@
+body {
+    width: 100%;
+    height: 100%;
+    background-color: #CCCCCC;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStYRE3a_seX9MA0H_aibPvs4dp3r6MGEyBetw-R7ZKHxFMrgLtcLqeB0473mH6vOYDAJ4&usqp=CAU");
+    background-position: left;
+    background-attachment: fixed;
+}
